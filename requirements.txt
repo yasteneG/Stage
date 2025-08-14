@@ -1,0 +1,14 @@
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.7.0
+matplotlib==3.10.0
+umap-learn==0.5.7
+hdbscan==0.8.40
+liac-arff==2.5.0
+sdv==1.23.0
+ctgan==0.11.0
+torch==2.2.2
+rdt==1.17.0
+copulas==0.12.2
+tqdm==4.67.1
+seaborn==0.13.2
